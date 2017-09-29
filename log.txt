@@ -1,0 +1,216 @@
+Song search: "I Want it That Way"
+--------------------------------------------
+0: {"track":"I Want It That Way","album":"The Hits--Chapter One","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=cceab1add11f487b99609869c4ea38fc"}
+1: {"track":"I Want It That Way","album":"The Essential Backstreet Boys","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=cceab1add11f487b99609869c4ea38fc"}
+2: {"track":"I Want It That Way","album":"Millennium","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=cceab1add11f487b99609869c4ea38fc"}
+3: {"track":"I Want It That Way","album":"Covers Part IV","artist":"Anthem Lights","url":"https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=cceab1add11f487b99609869c4ea38fc"}
+4: {"track":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","album":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","artist":"Glee Cast","url":"https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=cceab1add11f487b99609869c4ea38fc"}
+5: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Manuel Costa","url":"https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=cceab1add11f487b99609869c4ea38fc"}
+6: {"track":"I Want It That Way","album":"90 Sweet 90s Hits!","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=cceab1add11f487b99609869c4ea38fc"}
+7: {"track":"I Want It That Way","album":"Punk Goes Pop","artist":"Various Artists","url":null}
+8: {"track":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","album":"Poodle Hat","artist":"\"Weird Al\" Yankovic","url":"https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=cceab1add11f487b99609869c4ea38fc"}
+9: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Kyle Olthoff","url":"https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=cceab1add11f487b99609869c4ea38fc"}
+10: {"track":"I Want It That Way","album":"New Acoustic Sessions, Vol. 3","artist":"Boyce Avenue","url":"https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=cceab1add11f487b99609869c4ea38fc"}
+11: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Landon Austin","url":"https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=cceab1add11f487b99609869c4ea38fc"}
+12: {"track":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","album":"The Essential \"Weird Al\" Yankovic","artist":"\"Weird Al\" Yankovic","url":"https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=cceab1add11f487b99609869c4ea38fc"}
+13: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Steel Panther","url":null}
+14: {"track":"I Want It That Way","album":"NOW That's What I Call 90s Pop","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=cceab1add11f487b99609869c4ea38fc"}
+15: {"track":"I Want It That Way","album":"NKOTBSB","artist":"NKOTBSB","url":"https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=cceab1add11f487b99609869c4ea38fc"}
+16: {"track":"I Want It That Way","album":"Selfies on Kodachrome","artist":"Scott Bradlee's Postmodern Jukebox","url":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=cceab1add11f487b99609869c4ea38fc"}
+17: {"track":"I Want It That Way - Acoustic","album":"I Want It That Way (Acoustic)","artist":"Kaiak","url":"https://p.scdn.co/mp3-preview/6aa034496f6f07cb425d1ff8d0e2a2f8d61acfbc?cid=cceab1add11f487b99609869c4ea38fc"}
+18: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Jason Chen","url":"https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=cceab1add11f487b99609869c4ea38fc"}
+19: {"track":"I Want It That Way","album":"PMJ Is For Lovers: The Love Song Collection","artist":"Scott Bradlee's Postmodern Jukebox","url":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=cceab1add11f487b99609869c4ea38fc"}
+--------------------------------------------
+Song search: ring of fire
+--------------------------------------------
+0: {"track":"Ring of Fire - Mono Version","album":"Ring Of Fire: The Best Of Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/e3bbba328a3227e0d1095f804cd73a634de8cd04?cid=cceab1add11f487b99609869c4ea38fc"}
+1: {"track":"Ring of Fire","album":"The Essential Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/4a4e6a9dee7d9b05c149d1744b685e9cefc7ed50?cid=cceab1add11f487b99609869c4ea38fc"}
+2: {"track":"Ring of Fire","album":"Crazy Life","artist":"Home Free","url":"https://p.scdn.co/mp3-preview/84c875d3c93b65afed6e39e789e7f32b2bcf92d9?cid=cceab1add11f487b99609869c4ea38fc"}
+3: {"track":"Ring of Fire","album":"Social Distortion","artist":"Social Distortion","url":"https://p.scdn.co/mp3-preview/d590b3e0b70eec1d0d5a7dbab15e1ddaf7cc47f4?cid=cceab1add11f487b99609869c4ea38fc"}
+4: {"track":"Ring of Fire","album":"Get Wet","artist":"Krewella","url":"https://p.scdn.co/mp3-preview/d69c7de799da3dcb2be3526e0d4efe0fd6dbbef3?cid=cceab1add11f487b99609869c4ea38fc"}
+5: {"track":"I Still Miss Someone - Mono Version","album":"Ring Of Fire: The Best Of Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/d786eff2e18c80367023e5413918e8a13f86f32c?cid=cceab1add11f487b99609869c4ea38fc"}
+6: {"track":"Ring of Fire","album":"Ring of Fire","artist":"Devon Baldwin","url":"https://p.scdn.co/mp3-preview/940189518c3071bd43fe47610a08c020b264f8e8?cid=cceab1add11f487b99609869c4ea38fc"}
+7: {"track":"Tennessee Flat-Top Box - Mono Version","album":"Ring Of Fire: The Best Of Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/6250e5a0cd6616a9b4131d73f4f7d6bca508b789?cid=cceab1add11f487b99609869c4ea38fc"}
+8: {"track":"Ring of Fire","album":"Maximum Overload","artist":"DragonForce","url":"https://p.scdn.co/mp3-preview/52b3cfc522677c413cbbb6d02661f385d12ee0c3?cid=cceab1add11f487b99609869c4ea38fc"}
+9: {"track":"Ring Of Fire","album":"Walk The Line (Original Motion Picture Soundtrack)","artist":"Various Artists","url":null}
+10: {"track":"Ring of Fire","album":"Ring of Fire","artist":"Lera Lynn","url":"https://p.scdn.co/mp3-preview/bdd62ad603df48eab14c26c1ae373eee58cf2ff9?cid=cceab1add11f487b99609869c4ea38fc"}
+11: {"track":"The Rebel - Johnny Yuma - Mono Version","album":"Ring Of Fire: The Best Of Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/98d29f5e5a28e779db662810575c0e26abbee159?cid=cceab1add11f487b99609869c4ea38fc"}
+12: {"track":"Ring of Fire","album":"34 Number Ones","artist":"Alan Jackson","url":"https://p.scdn.co/mp3-preview/7449af7609a57974daf11588cf83858030f07053?cid=cceab1add11f487b99609869c4ea38fc"}
+13: {"track":"Ring of Fire","album":"Live from Austin, TX: Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/9749e5080c2865d133828820d1dc20b05693c1d3?cid=cceab1add11f487b99609869c4ea38fc"}
+14: {"track":"Ring Of Fire","album":"The Legend Of Johnny Cash","artist":"Johnny Cash","url":null}
+15: {"track":"Ring of Fire","album":"The Essential Alan Jackson","artist":"Alan Jackson","url":"https://p.scdn.co/mp3-preview/7449af7609a57974daf11588cf83858030f07053?cid=cceab1add11f487b99609869c4ea38fc"}
+16: {"track":"Ring Of Fire","album":"Greatest Hits","artist":"Social Distortion","url":null}
+17: {"track":"Ring of Fire","album":"Ring of Fire","artist":"Iolite","url":"https://p.scdn.co/mp3-preview/4ee38bbcc0e305980336c764669695907a5c2e25?cid=cceab1add11f487b99609869c4ea38fc"}
+18: {"track":"Ring of Fire","album":"Shaun White Snowboarding: Official Soundtrack","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/d590b3e0b70eec1d0d5a7dbab15e1ddaf7cc47f4?cid=cceab1add11f487b99609869c4ea38fc"}
+19: {"track":"Were You There (When They Crucified My Lord) - Mono Version","album":"Ring Of Fire: The Best Of Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/c98034686fde4206acf43a6f05970cd25bb8cdda?cid=cceab1add11f487b99609869c4ea38fc"}
+--------------------------------------------
+Twitter feed pull
+--------------------------------------------
+0: {"time":"Thu Sep 21 19:04:21 +0000 2017","text":"@jaeayeti Let's see your skills https://t.co/yeynSFqlGo"}
+1: {"time":"Thu Sep 21 18:55:08 +0000 2017","text":"@_komalpatel You will be destroyed!! https://t.co/yeynSFqlGo"}
+2: {"time":"Thu Sep 21 18:55:02 +0000 2017","text":"@Ben_Jamin_10 Where you at https://t.co/yeynSFqlGo"}
+3: {"time":"Thu Sep 21 18:54:48 +0000 2017","text":"@MattBeebe80 I remember my first game https://t.co/yeynSFqlGo"}
+4: {"time":"Thu Sep 21 18:54:47 +0000 2017","text":"@l_mario17 Let's see your skills https://t.co/yeynSFqlGo"}
+5: {"time":"Thu Sep 21 16:11:09 +0000 2017","text":"@Ben_Jamin_10 I remember my first game https://t.co/yeynSFqlGo"}
+6: {"time":"Mon Sep 18 17:34:53 +0000 2017","text":"@ZirockzindustrZ hey thanks"}
+Song search: "I Want it That Way"
+--------------------------------------------
+0: {"track":"I Want It That Way","album":"The Hits--Chapter One","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=cceab1add11f487b99609869c4ea38fc"}
+1: {"track":"I Want It That Way","album":"The Essential Backstreet Boys","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=cceab1add11f487b99609869c4ea38fc"}
+2: {"track":"I Want It That Way","album":"Millennium","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=cceab1add11f487b99609869c4ea38fc"}
+3: {"track":"I Want It That Way","album":"Covers Part IV","artist":"Anthem Lights","url":"https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=cceab1add11f487b99609869c4ea38fc"}
+4: {"track":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","album":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","artist":"Glee Cast","url":"https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=cceab1add11f487b99609869c4ea38fc"}
+5: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Manuel Costa","url":"https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=cceab1add11f487b99609869c4ea38fc"}
+6: {"track":"I Want It That Way","album":"90 Sweet 90s Hits!","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=cceab1add11f487b99609869c4ea38fc"}
+7: {"track":"I Want It That Way","album":"Punk Goes Pop","artist":"Various Artists","url":null}
+8: {"track":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","album":"Poodle Hat","artist":"\"Weird Al\" Yankovic","url":"https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=cceab1add11f487b99609869c4ea38fc"}
+9: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Kyle Olthoff","url":"https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=cceab1add11f487b99609869c4ea38fc"}
+10: {"track":"I Want It That Way","album":"New Acoustic Sessions, Vol. 3","artist":"Boyce Avenue","url":"https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=cceab1add11f487b99609869c4ea38fc"}
+11: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Landon Austin","url":"https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=cceab1add11f487b99609869c4ea38fc"}
+12: {"track":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","album":"The Essential \"Weird Al\" Yankovic","artist":"\"Weird Al\" Yankovic","url":"https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=cceab1add11f487b99609869c4ea38fc"}
+13: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Steel Panther","url":null}
+14: {"track":"I Want It That Way","album":"NOW That's What I Call 90s Pop","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=cceab1add11f487b99609869c4ea38fc"}
+15: {"track":"I Want It That Way","album":"NKOTBSB","artist":"NKOTBSB","url":"https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=cceab1add11f487b99609869c4ea38fc"}
+16: {"track":"I Want It That Way - Acoustic","album":"I Want It That Way (Acoustic)","artist":"Kaiak","url":"https://p.scdn.co/mp3-preview/6aa034496f6f07cb425d1ff8d0e2a2f8d61acfbc?cid=cceab1add11f487b99609869c4ea38fc"}
+17: {"track":"I Want It That Way","album":"Selfies on Kodachrome","artist":"Scott Bradlee's Postmodern Jukebox","url":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=cceab1add11f487b99609869c4ea38fc"}
+18: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Jason Chen","url":"https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=cceab1add11f487b99609869c4ea38fc"}
+19: {"track":"I Want It That Way","album":"PMJ Is For Lovers: The Love Song Collection","artist":"Scott Bradlee's Postmodern Jukebox","url":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=cceab1add11f487b99609869c4ea38fc"}
+--------------------------------------------
+Song search: "I Want it That Way"
+--------------------------------------------
+0: {"track":"I Want It That Way","album":"The Hits--Chapter One","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=cceab1add11f487b99609869c4ea38fc"}
+1: {"track":"I Want It That Way","album":"The Essential Backstreet Boys","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=cceab1add11f487b99609869c4ea38fc"}
+2: {"track":"I Want It That Way","album":"Millennium","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=cceab1add11f487b99609869c4ea38fc"}
+3: {"track":"I Want It That Way","album":"Covers Part IV","artist":"Anthem Lights","url":"https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=cceab1add11f487b99609869c4ea38fc"}
+4: {"track":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","album":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","artist":"Glee Cast","url":"https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=cceab1add11f487b99609869c4ea38fc"}
+5: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Manuel Costa","url":"https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=cceab1add11f487b99609869c4ea38fc"}
+6: {"track":"I Want It That Way","album":"90 Sweet 90s Hits!","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=cceab1add11f487b99609869c4ea38fc"}
+7: {"track":"I Want It That Way","album":"Punk Goes Pop","artist":"Various Artists","url":null}
+8: {"track":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","album":"Poodle Hat","artist":"\"Weird Al\" Yankovic","url":"https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=cceab1add11f487b99609869c4ea38fc"}
+9: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Kyle Olthoff","url":"https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=cceab1add11f487b99609869c4ea38fc"}
+10: {"track":"I Want It That Way","album":"New Acoustic Sessions, Vol. 3","artist":"Boyce Avenue","url":"https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=cceab1add11f487b99609869c4ea38fc"}
+11: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Landon Austin","url":"https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=cceab1add11f487b99609869c4ea38fc"}
+12: {"track":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","album":"The Essential \"Weird Al\" Yankovic","artist":"\"Weird Al\" Yankovic","url":"https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=cceab1add11f487b99609869c4ea38fc"}
+13: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Steel Panther","url":null}
+14: {"track":"I Want It That Way","album":"NOW That's What I Call 90s Pop","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=cceab1add11f487b99609869c4ea38fc"}
+15: {"track":"I Want It That Way","album":"NKOTBSB","artist":"NKOTBSB","url":"https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=cceab1add11f487b99609869c4ea38fc"}
+16: {"track":"I Want It That Way - Acoustic","album":"I Want It That Way (Acoustic)","artist":"Kaiak","url":"https://p.scdn.co/mp3-preview/6aa034496f6f07cb425d1ff8d0e2a2f8d61acfbc?cid=cceab1add11f487b99609869c4ea38fc"}
+17: {"track":"I Want It That Way","album":"Selfies on Kodachrome","artist":"Scott Bradlee's Postmodern Jukebox","url":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=cceab1add11f487b99609869c4ea38fc"}
+18: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Jason Chen","url":"https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=cceab1add11f487b99609869c4ea38fc"}
+19: {"track":"I Want It That Way","album":"PMJ Is For Lovers: The Love Song Collection","artist":"Scott Bradlee's Postmodern Jukebox","url":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=cceab1add11f487b99609869c4ea38fc"}
+--------------------------------------------
+Song search: "I Want it That Way"
+--------------------------------------------
+0: {"track":"I Want It That Way","album":"The Hits--Chapter One","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=cceab1add11f487b99609869c4ea38fc"}
+1: {"track":"I Want It That Way","album":"The Essential Backstreet Boys","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=cceab1add11f487b99609869c4ea38fc"}
+2: {"track":"I Want It That Way","album":"Millennium","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=cceab1add11f487b99609869c4ea38fc"}
+3: {"track":"I Want It That Way","album":"Covers Part IV","artist":"Anthem Lights","url":"https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=cceab1add11f487b99609869c4ea38fc"}
+4: {"track":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","album":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","artist":"Glee Cast","url":"https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=cceab1add11f487b99609869c4ea38fc"}
+5: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Manuel Costa","url":"https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=cceab1add11f487b99609869c4ea38fc"}
+6: {"track":"I Want It That Way","album":"90 Sweet 90s Hits!","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=cceab1add11f487b99609869c4ea38fc"}
+7: {"track":"I Want It That Way","album":"Punk Goes Pop","artist":"Various Artists","url":null}
+8: {"track":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","album":"Poodle Hat","artist":"\"Weird Al\" Yankovic","url":"https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=cceab1add11f487b99609869c4ea38fc"}
+9: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Kyle Olthoff","url":"https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=cceab1add11f487b99609869c4ea38fc"}
+10: {"track":"I Want It That Way","album":"New Acoustic Sessions, Vol. 3","artist":"Boyce Avenue","url":"https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=cceab1add11f487b99609869c4ea38fc"}
+11: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Landon Austin","url":"https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=cceab1add11f487b99609869c4ea38fc"}
+12: {"track":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","album":"The Essential \"Weird Al\" Yankovic","artist":"\"Weird Al\" Yankovic","url":"https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=cceab1add11f487b99609869c4ea38fc"}
+13: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Steel Panther","url":null}
+14: {"track":"I Want It That Way","album":"NOW That's What I Call 90s Pop","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=cceab1add11f487b99609869c4ea38fc"}
+15: {"track":"I Want It That Way","album":"NKOTBSB","artist":"NKOTBSB","url":"https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=cceab1add11f487b99609869c4ea38fc"}
+16: {"track":"I Want It That Way - Acoustic","album":"I Want It That Way (Acoustic)","artist":"Kaiak","url":"https://p.scdn.co/mp3-preview/6aa034496f6f07cb425d1ff8d0e2a2f8d61acfbc?cid=cceab1add11f487b99609869c4ea38fc"}
+17: {"track":"I Want It That Way","album":"Selfies on Kodachrome","artist":"Scott Bradlee's Postmodern Jukebox","url":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=cceab1add11f487b99609869c4ea38fc"}
+18: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Jason Chen","url":"https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=cceab1add11f487b99609869c4ea38fc"}
+19: {"track":"I Want It That Way","album":"PMJ Is For Lovers: The Love Song Collection","artist":"Scott Bradlee's Postmodern Jukebox","url":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=cceab1add11f487b99609869c4ea38fc"}
+--------------------------------------------
+Song search: "I Want it That Way"
+--------------------------------------------
+0: {"track":"I Want It That Way","album":"The Hits--Chapter One","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=cceab1add11f487b99609869c4ea38fc"}
+1: {"track":"I Want It That Way","album":"The Essential Backstreet Boys","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=cceab1add11f487b99609869c4ea38fc"}
+2: {"track":"I Want It That Way","album":"Millennium","artist":"Backstreet Boys","url":"https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=cceab1add11f487b99609869c4ea38fc"}
+3: {"track":"I Want It That Way","album":"Covers Part IV","artist":"Anthem Lights","url":"https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=cceab1add11f487b99609869c4ea38fc"}
+4: {"track":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","album":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","artist":"Glee Cast","url":"https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=cceab1add11f487b99609869c4ea38fc"}
+5: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Manuel Costa","url":"https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=cceab1add11f487b99609869c4ea38fc"}
+6: {"track":"I Want It That Way","album":"90 Sweet 90s Hits!","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=cceab1add11f487b99609869c4ea38fc"}
+7: {"track":"I Want It That Way","album":"Punk Goes Pop","artist":"Various Artists","url":null}
+8: {"track":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","album":"Poodle Hat","artist":"\"Weird Al\" Yankovic","url":"https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=cceab1add11f487b99609869c4ea38fc"}
+9: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Kyle Olthoff","url":"https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=cceab1add11f487b99609869c4ea38fc"}
+10: {"track":"I Want It That Way","album":"New Acoustic Sessions, Vol. 3","artist":"Boyce Avenue","url":"https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=cceab1add11f487b99609869c4ea38fc"}
+11: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Landon Austin","url":"https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=cceab1add11f487b99609869c4ea38fc"}
+12: {"track":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","album":"The Essential \"Weird Al\" Yankovic","artist":"\"Weird Al\" Yankovic","url":"https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=cceab1add11f487b99609869c4ea38fc"}
+13: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Steel Panther","url":null}
+14: {"track":"I Want It That Way","album":"NOW That's What I Call 90s Pop","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=cceab1add11f487b99609869c4ea38fc"}
+15: {"track":"I Want It That Way","album":"NKOTBSB","artist":"NKOTBSB","url":"https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=cceab1add11f487b99609869c4ea38fc"}
+16: {"track":"I Want It That Way - Acoustic","album":"I Want It That Way (Acoustic)","artist":"Kaiak","url":"https://p.scdn.co/mp3-preview/6aa034496f6f07cb425d1ff8d0e2a2f8d61acfbc?cid=cceab1add11f487b99609869c4ea38fc"}
+17: {"track":"I Want It That Way","album":"Selfies on Kodachrome","artist":"Scott Bradlee's Postmodern Jukebox","url":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=cceab1add11f487b99609869c4ea38fc"}
+18: {"track":"I Want It That Way","album":"I Want It That Way","artist":"Jason Chen","url":"https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=cceab1add11f487b99609869c4ea38fc"}
+19: {"track":"I Want It That Way","album":"PMJ Is For Lovers: The Love Song Collection","artist":"Scott Bradlee's Postmodern Jukebox","url":"https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=cceab1add11f487b99609869c4ea38fc"}
+--------------------------------------------
+Song search: ring of fire
+--------------------------------------------
+0: {"track":"Ring of Fire - Mono Version","album":"Ring Of Fire: The Best Of Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/e3bbba328a3227e0d1095f804cd73a634de8cd04?cid=cceab1add11f487b99609869c4ea38fc"}
+1: {"track":"Ring of Fire","album":"The Essential Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/4a4e6a9dee7d9b05c149d1744b685e9cefc7ed50?cid=cceab1add11f487b99609869c4ea38fc"}
+2: {"track":"Ring of Fire","album":"Crazy Life","artist":"Home Free","url":"https://p.scdn.co/mp3-preview/84c875d3c93b65afed6e39e789e7f32b2bcf92d9?cid=cceab1add11f487b99609869c4ea38fc"}
+3: {"track":"Ring of Fire","album":"Social Distortion","artist":"Social Distortion","url":"https://p.scdn.co/mp3-preview/d590b3e0b70eec1d0d5a7dbab15e1ddaf7cc47f4?cid=cceab1add11f487b99609869c4ea38fc"}
+4: {"track":"Ring of Fire","album":"Get Wet","artist":"Krewella","url":"https://p.scdn.co/mp3-preview/d69c7de799da3dcb2be3526e0d4efe0fd6dbbef3?cid=cceab1add11f487b99609869c4ea38fc"}
+5: {"track":"I Still Miss Someone - Mono Version","album":"Ring Of Fire: The Best Of Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/d786eff2e18c80367023e5413918e8a13f86f32c?cid=cceab1add11f487b99609869c4ea38fc"}
+6: {"track":"Ring of Fire","album":"Ring of Fire","artist":"Devon Baldwin","url":"https://p.scdn.co/mp3-preview/940189518c3071bd43fe47610a08c020b264f8e8?cid=cceab1add11f487b99609869c4ea38fc"}
+7: {"track":"Tennessee Flat-Top Box - Mono Version","album":"Ring Of Fire: The Best Of Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/6250e5a0cd6616a9b4131d73f4f7d6bca508b789?cid=cceab1add11f487b99609869c4ea38fc"}
+8: {"track":"Ring of Fire","album":"Maximum Overload","artist":"DragonForce","url":"https://p.scdn.co/mp3-preview/52b3cfc522677c413cbbb6d02661f385d12ee0c3?cid=cceab1add11f487b99609869c4ea38fc"}
+9: {"track":"Ring Of Fire","album":"Walk The Line (Original Motion Picture Soundtrack)","artist":"Various Artists","url":null}
+10: {"track":"Ring of Fire","album":"Ring of Fire","artist":"Lera Lynn","url":"https://p.scdn.co/mp3-preview/bdd62ad603df48eab14c26c1ae373eee58cf2ff9?cid=cceab1add11f487b99609869c4ea38fc"}
+11: {"track":"The Rebel - Johnny Yuma - Mono Version","album":"Ring Of Fire: The Best Of Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/98d29f5e5a28e779db662810575c0e26abbee159?cid=cceab1add11f487b99609869c4ea38fc"}
+12: {"track":"Ring of Fire","album":"34 Number Ones","artist":"Alan Jackson","url":"https://p.scdn.co/mp3-preview/7449af7609a57974daf11588cf83858030f07053?cid=cceab1add11f487b99609869c4ea38fc"}
+13: {"track":"Ring of Fire","album":"Live from Austin, TX: Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/9749e5080c2865d133828820d1dc20b05693c1d3?cid=cceab1add11f487b99609869c4ea38fc"}
+14: {"track":"Ring Of Fire","album":"The Legend Of Johnny Cash","artist":"Johnny Cash","url":null}
+15: {"track":"Ring of Fire","album":"The Essential Alan Jackson","artist":"Alan Jackson","url":"https://p.scdn.co/mp3-preview/7449af7609a57974daf11588cf83858030f07053?cid=cceab1add11f487b99609869c4ea38fc"}
+16: {"track":"Ring Of Fire","album":"Greatest Hits","artist":"Social Distortion","url":null}
+17: {"track":"Ring of Fire","album":"Ring of Fire","artist":"Iolite","url":"https://p.scdn.co/mp3-preview/4ee38bbcc0e305980336c764669695907a5c2e25?cid=cceab1add11f487b99609869c4ea38fc"}
+18: {"track":"Ring of Fire","album":"Shaun White Snowboarding: Official Soundtrack","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/d590b3e0b70eec1d0d5a7dbab15e1ddaf7cc47f4?cid=cceab1add11f487b99609869c4ea38fc"}
+19: {"track":"Were You There (When They Crucified My Lord) - Mono Version","album":"Ring Of Fire: The Best Of Johnny Cash","artist":"Johnny Cash","url":"https://p.scdn.co/mp3-preview/c98034686fde4206acf43a6f05970cd25bb8cdda?cid=cceab1add11f487b99609869c4ea38fc"}
+--------------------------------------------
+Song search: ace of bass
+--------------------------------------------
+Song search: ace of bass
+--------------------------------------------
+0: {"track":"Beatdown (feat. Vanilla ACE)","album":"Best of Night Bass 2016","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/606e93e67e9a772cde011e3e683cb30b5b979840?cid=cceab1add11f487b99609869c4ea38fc"}
+1: {"track":"Ace In The Hole","album":"Derelicts Of Dialect","artist":"3rd Bass","url":null}
+2: {"track":"Ace of Bass","album":"Ace of Bass","artist":"U&K","url":"https://p.scdn.co/mp3-preview/522b7ed45ece8c00385f84287dbdbd7a65f61db1?cid=cceab1add11f487b99609869c4ea38fc"}
+3: {"track":"Sea Of Bass","album":"Totally Bass","artist":"Bass Master A.C.E.","url":"https://p.scdn.co/mp3-preview/8c2518683308dcbf01433d2319ce7bff9c67a21d?cid=cceab1add11f487b99609869c4ea38fc"}
+4: {"track":"Ace of Bass - Hardstyle Mix","album":"The Bass Brothers EP","artist":"BassBrothers","url":"https://p.scdn.co/mp3-preview/141f6b6d8663b966942b36df342d335661339048?cid=cceab1add11f487b99609869c4ea38fc"}
+5: {"track":"Romantic Song","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/8ddb1b3202d4c1bbd6187a6017a5aaa5c4ea95d8?cid=cceab1add11f487b99609869c4ea38fc"}
+6: {"track":"On the Way","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/c333afc8581efc156b1b62d87a7ad10f081fe4f0?cid=cceab1add11f487b99609869c4ea38fc"}
+7: {"track":"Star Wars(Dubstep Remix)","album":"Ace of Dubstep Bass","artist":"Dubble Trubble","url":"https://p.scdn.co/mp3-preview/39e577b3a3e655c99daf37ea1e057c57ffd75d19?cid=cceab1add11f487b99609869c4ea38fc"}
+8: {"track":"Windsurf","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/910d3c468f2060d757b3314d77d1f7c6fe3449c4?cid=cceab1add11f487b99609869c4ea38fc"}
+9: {"track":"Ace of Bass","album":"The Wrath of the Sea","artist":"Nerd Burglarz","url":"https://p.scdn.co/mp3-preview/7b77e198e3044a9a0494f1711c67e27b4def3f70?cid=cceab1add11f487b99609869c4ea38fc"}
+10: {"track":"Bass of Ace","album":"The Black Tape","artist":"Switchdance","url":"https://p.scdn.co/mp3-preview/04b2e251b30464c8735a6d0a017a3dc606b659e3?cid=cceab1add11f487b99609869c4ea38fc"}
+11: {"track":"Marlboró","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/86f7e55200ef4cad6abcfc26702d6dd030cbffa6?cid=cceab1add11f487b99609869c4ea38fc"}
+12: {"track":"Evening Walk","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/ee3ddfd78ff2dbc74d0badf2cba3e4342c8da80a?cid=cceab1add11f487b99609869c4ea38fc"}
+13: {"track":"Ostinató Nr. 17","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/6d33f82f95ce3e9a86dc64858b0af5be189e7ee3?cid=cceab1add11f487b99609869c4ea38fc"}
+14: {"track":"Ace of Bass","album":"Walkin' the Line","artist":"Seismic Anamoly","url":"https://p.scdn.co/mp3-preview/99fcaf14da2c3084181d64aec2f94171aa9a239d?cid=cceab1add11f487b99609869c4ea38fc"}
+15: {"track":"Nuclear Bass","album":"Nuclear Bass","artist":"Ace of Spades","url":"https://p.scdn.co/mp3-preview/b029a87e93229cc95e877c0e45c39501a8c2db8f?cid=cceab1add11f487b99609869c4ea38fc"}
+16: {"track":"Bass of Ace","album":"Electro House","artist":"Shahrooz Raoofi","url":"https://p.scdn.co/mp3-preview/5dd1248e00ad006551235429641aea6b2fba73a5?cid=cceab1add11f487b99609869c4ea38fc"}
+17: {"track":"Ace of Bass - Hard Tech Mix","album":"The Bass Brothers EP","artist":"BassBrothers","url":"https://p.scdn.co/mp3-preview/68a3ce9a5e319113e9d98cc39a8df7f8ce13c2fa?cid=cceab1add11f487b99609869c4ea38fc"}
+18: {"track":"Coctail","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/e5099fc0b31d5fc42820f60010cb2976563d4d79?cid=cceab1add11f487b99609869c4ea38fc"}
+19: {"track":"Square Wheel","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/976d15856cb0762fa7197eeb0a93a4650577cce6?cid=cceab1add11f487b99609869c4ea38fc"}
+--------------------------------------------
+0: {"track":"Beatdown (feat. Vanilla ACE)","album":"Best of Night Bass 2016","artist":"Various Artists","url":"https://p.scdn.co/mp3-preview/606e93e67e9a772cde011e3e683cb30b5b979840?cid=cceab1add11f487b99609869c4ea38fc"}
+1: {"track":"Ace In The Hole","album":"Derelicts Of Dialect","artist":"3rd Bass","url":null}
+2: {"track":"Ace of Bass","album":"Ace of Bass","artist":"U&K","url":"https://p.scdn.co/mp3-preview/522b7ed45ece8c00385f84287dbdbd7a65f61db1?cid=cceab1add11f487b99609869c4ea38fc"}
+3: {"track":"Sea Of Bass","album":"Totally Bass","artist":"Bass Master A.C.E.","url":"https://p.scdn.co/mp3-preview/8c2518683308dcbf01433d2319ce7bff9c67a21d?cid=cceab1add11f487b99609869c4ea38fc"}
+4: {"track":"Ace of Bass - Hardstyle Mix","album":"The Bass Brothers EP","artist":"BassBrothers","url":"https://p.scdn.co/mp3-preview/141f6b6d8663b966942b36df342d335661339048?cid=cceab1add11f487b99609869c4ea38fc"}
+5: {"track":"Romantic Song","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/8ddb1b3202d4c1bbd6187a6017a5aaa5c4ea95d8?cid=cceab1add11f487b99609869c4ea38fc"}
+6: {"track":"On the Way","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/c333afc8581efc156b1b62d87a7ad10f081fe4f0?cid=cceab1add11f487b99609869c4ea38fc"}
+7: {"track":"Star Wars(Dubstep Remix)","album":"Ace of Dubstep Bass","artist":"Dubble Trubble","url":"https://p.scdn.co/mp3-preview/39e577b3a3e655c99daf37ea1e057c57ffd75d19?cid=cceab1add11f487b99609869c4ea38fc"}
+8: {"track":"Windsurf","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/910d3c468f2060d757b3314d77d1f7c6fe3449c4?cid=cceab1add11f487b99609869c4ea38fc"}
+9: {"track":"Ace of Bass","album":"The Wrath of the Sea","artist":"Nerd Burglarz","url":"https://p.scdn.co/mp3-preview/7b77e198e3044a9a0494f1711c67e27b4def3f70?cid=cceab1add11f487b99609869c4ea38fc"}
+10: {"track":"Bass of Ace","album":"The Black Tape","artist":"Switchdance","url":"https://p.scdn.co/mp3-preview/04b2e251b30464c8735a6d0a017a3dc606b659e3?cid=cceab1add11f487b99609869c4ea38fc"}
+11: {"track":"Marlboró","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/86f7e55200ef4cad6abcfc26702d6dd030cbffa6?cid=cceab1add11f487b99609869c4ea38fc"}
+12: {"track":"Evening Walk","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/ee3ddfd78ff2dbc74d0badf2cba3e4342c8da80a?cid=cceab1add11f487b99609869c4ea38fc"}
+13: {"track":"Ostinató Nr. 17","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/6d33f82f95ce3e9a86dc64858b0af5be189e7ee3?cid=cceab1add11f487b99609869c4ea38fc"}
+14: {"track":"Ace of Bass","album":"Walkin' the Line","artist":"Seismic Anamoly","url":"https://p.scdn.co/mp3-preview/99fcaf14da2c3084181d64aec2f94171aa9a239d?cid=cceab1add11f487b99609869c4ea38fc"}
+15: {"track":"Nuclear Bass","album":"Nuclear Bass","artist":"Ace of Spades","url":"https://p.scdn.co/mp3-preview/b029a87e93229cc95e877c0e45c39501a8c2db8f?cid=cceab1add11f487b99609869c4ea38fc"}
+16: {"track":"Bass of Ace","album":"Electro House","artist":"Shahrooz Raoofi","url":"https://p.scdn.co/mp3-preview/5dd1248e00ad006551235429641aea6b2fba73a5?cid=cceab1add11f487b99609869c4ea38fc"}
+17: {"track":"Ace of Bass - Hard Tech Mix","album":"The Bass Brothers EP","artist":"BassBrothers","url":"https://p.scdn.co/mp3-preview/68a3ce9a5e319113e9d98cc39a8df7f8ce13c2fa?cid=cceab1add11f487b99609869c4ea38fc"}
+18: {"track":"Coctail","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/e5099fc0b31d5fc42820f60010cb2976563d4d79?cid=cceab1add11f487b99609869c4ea38fc"}
+19: {"track":"Square Wheel","album":"Ace of Bass","artist":"Aladár Pege Quartet","url":"https://p.scdn.co/mp3-preview/976d15856cb0762fa7197eeb0a93a4650577cce6?cid=cceab1add11f487b99609869c4ea38fc"}
+--------------------------------------------
